@@ -6,7 +6,7 @@
   "dependencies": {
     "@saber2pr/types-github-api": "^0.0.7",
     "@vercel/node": "^1.7.1",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   },
   "prettier": {
     "singleQuote": true,
