@@ -2,7 +2,7 @@
 
 Get a GitHub users repositories!
 
-https://github-user-repos.vercel.app/api?username=spences10
+https://github-user-repos.vercel.app/api?username=<username>
 
 Thanks to [Atila Fassina] for the great YouTube video [Serverless
 Function to Production in 5 minutes]
