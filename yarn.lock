@@ -40,10 +40,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@saber2pr/types-github-api@^0.0.7":
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/@saber2pr/types-github-api/-/types-github-api-0.0.7.tgz#91ec9bcd40e873d7c419c9ce7fec8cb21340ab82"
-  integrity sha512-eRRbLalwnueWBt8ndfEcfEyfX7qEabp8Flo1012gAss0q0JQMs49Al5nAUwA9fKnMoCnz57gEVr7eBG46okOyw==
+"@saber2pr/types-github-api@^0.0.9":
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/@saber2pr/types-github-api/-/types-github-api-0.0.9.tgz#9cc0d6acfa0dc83cc8eb04b760159aad1ec63944"
+  integrity sha512-sB5gbTTaxNgm55HwxjGFo9oHZUVzFcPkxkh4eoSMK4blI1XZmdT7MDVroeweAfQesNJ5TlwVteBLzOKkdfeTdw==
 
 "@ts-morph/common@~0.11.0":
   version "0.11.1"
